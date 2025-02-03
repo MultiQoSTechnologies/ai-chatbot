@@ -1,7 +1,11 @@
 
-![No messages yet!](https://github.com/user-attachments/assets/802498c6-4d74-4ed1-a782-2cd5213e929b) ![Enter a prompt](https://github.com/user-attachments/assets/2bd99695-8592-40ad-8391-6fd252ae8010)
+![Image](https://github.com/user-attachments/assets/e149c0a4-0520-431e-a78a-8634559fce62)
 
-![Pasted Graphic 2](https://github.com/user-attachments/assets/26a6f95b-94ec-45cf-b9dd-b4e7fc6245dc) ![image](https://github.com/user-attachments/assets/5fefc6f2-09fb-433c-bc65-3378f427744f)
+![Image](https://github.com/user-attachments/assets/7daea479-1be2-466e-968d-b02cada6a5e5)
+
+![Image](https://github.com/user-attachments/assets/efbbb4df-b183-4297-9886-233c2ba0fd42)
+
+![Image](https://github.com/user-attachments/assets/b5a9965c-f279-48e3-bf4f-58836df25be4)
 
 
 
