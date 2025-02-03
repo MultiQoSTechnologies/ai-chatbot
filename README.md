@@ -18,9 +18,12 @@ selection, and markdown rendering.
 - This project is a starting point for a Flutter application.
 - A few resources to get you started if this is your first Flutter project:
 
-![Image](https://github.com/user-attachments/assets/e149c0a4-0520-431e-a78a-8634559fce62)![Image](https://github.com/user-attachments/assets/7daea479-1be2-466e-968d-b02cada6a5e5)
 
-![Image](https://github.com/user-attachments/assets/b5a9965c-f279-48e3-bf4f-58836df25be4)![Image](https://github.com/user-attachments/assets/efbbb4df-b183-4297-9886-233c2ba0fd42)
+<div style="display: flex; justify-content: space-between;"> 
+  <img src="https://github.com/user-attachments/assets/e149c0a4-0520-431e-a78a-8634559fce62" alt="Screenshot 2" width="30%" />
+  <img src="https://github.com/user-attachments/assets/7daea479-1be2-466e-968d-b02cada6a5e5" alt="Screenshot 1" width="30%" />
+  <img src="https://github.com/user-attachments/assets/b5a9965c-f279-48e3-bf4f-58836df25be4" alt="Screenshot 3" width="30%" />
+</div> 
 
 
 ## *Libraries Used*
