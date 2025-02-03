@@ -1,5 +1,5 @@
 
-# google_generative_ai_demo
+# ai_chatbot
 
 This project is a single-page Flutter application that integrates with the Gemini API from Google
 Generative AI to provide a chat interface. The application allows users to interact with the Gemini
