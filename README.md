@@ -1,15 +1,4 @@
 
-![Image](https://github.com/user-attachments/assets/e149c0a4-0520-431e-a78a-8634559fce62)
-
-![Image](https://github.com/user-attachments/assets/7daea479-1be2-466e-968d-b02cada6a5e5)
-
-![Image](https://github.com/user-attachments/assets/efbbb4df-b183-4297-9886-233c2ba0fd42)
-
-![Image](https://github.com/user-attachments/assets/b5a9965c-f279-48e3-bf4f-58836df25be4)
-
-
-
-
 # google_generative_ai_demo
 
 This project is a single-page Flutter application that integrates with the Gemini API from Google
@@ -28,6 +17,11 @@ selection, and markdown rendering.
 - Time Formatting: Display timestamps for chat messages using the intl package.
 - This project is a starting point for a Flutter application.
 - A few resources to get you started if this is your first Flutter project:
+
+![Image](https://github.com/user-attachments/assets/e149c0a4-0520-431e-a78a-8634559fce62)![Image](https://github.com/user-attachments/assets/7daea479-1be2-466e-968d-b02cada6a5e5)
+
+![Image](https://github.com/user-attachments/assets/b5a9965c-f279-48e3-bf4f-58836df25be4)![Image](https://github.com/user-attachments/assets/efbbb4df-b183-4297-9886-233c2ba0fd42)
+
 
 ## *Libraries Used*
 
